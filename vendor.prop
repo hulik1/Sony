@@ -1,4 +1,0 @@
-# USB Config
-vendor.usb.use_ffs_mtp=1
-ro.vendor.usb.vid=0FCE
-ro.vendor.usb.pid_suffix=20e
